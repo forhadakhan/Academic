@@ -1,4 +1,4 @@
 ## Academic » Programming » Python
 
-This sub contain python related stuff. 
-Version: Python 3 (+)
+This sub contain python related stuff.   
+Version: Python 3.(+)
