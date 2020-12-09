@@ -2,8 +2,8 @@
 
 
 
-1. You are given an undirected or bidirected graph and a source from which you will start your journey. You have to find the minimum number of edges required to arrive at each of the reachable vertices and print the path as given in the output section in a sequence.
-    + First will have the total number of nodes (**n) ** and the total number of edges (**m)**.
+1. You are given an undirected or bi-directed graph and a source from which you will start your journey. You have to find the minimum number of edges required to arrive at each of the reachable vertices and print the path as given in the output section in a sequence.
+    + First will have the total number of nodes **(n)** and the total number of edges **(m)**.
         + Nodes are numbered from **0** to **n-1**
     + Next m lines will be followed by m pairs of integers denoting the bi-directional edges.
         2. a   b
@@ -24,12 +24,12 @@
 
 
     ```
-        Level **1**:  0  
-        Level **2**:  1, 4, 2  
-        Level **3**:  3, 11   
-        Level **4**:  5, 10   
-        Level **5**:  6, 7  
-        Level **6**:  8  
+        Level 1:  0  
+        Level 2:  1, 4, 2  
+        Level 3:  3, 11   
+        Level 4:  5, 10   
+        Level 5:  6, 7  
+        Level 6:  8  
     ```
 
 **Input-1:**
