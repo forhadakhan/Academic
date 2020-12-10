@@ -1,11 +1,11 @@
 #################################################################################
-###                                                                           ###
-###      Problem 01           : Implement Breadth First Search                ###
-###                             (Uninformed Search)                           ###
-###      Problem (Link)       : http://tiny.cc/2zd6tz                         ###
-###      Solution by          : https://github.com/forhadkhan/                ###
-###      Python Version       : Python 3.8.5 (Recommended 3.7.+)              ###
-###                                                                           ###
+|#|                                                                           |#|
+|#|      Problem 01           : Implement Breadth First Search                |#|
+|#|                             (Uninformed Search)                           |#|
+|#|      Problem (Link)       : http://tiny.cc/2zd6tz                         |#|
+|#|      Solution by          : https://github.com/forhadkhan/                |#|
+|#|      Python Version       : Python 3.8.5 (Recommended 3.7.+)              |#|
+|#|                                                                           |#|
 #################################################################################
 
 import queue
