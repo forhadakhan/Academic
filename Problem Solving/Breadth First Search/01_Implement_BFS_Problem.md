@@ -5,10 +5,10 @@
 1. You are given an undirected or bi-directed graph and a source from which you will start your journey. You have to find the minimum number of edges required to arrive at each of the reachable vertices and print the path as given in the output section in a sequence.
     + First will have the total number of nodes **(n)** and the total number of edges **(m)**.
         + Nodes are numbered from **0** to **n-1**
-    + Next m lines will be followed by m pairs of integers denoting the bi-directional edges.
-        2. a   b
-            1. It means there is a connection from **a to b** and 
-            2. Also, a connection from **b to a**.
+    + Next m lines will be followed by m pairs of integers denoting the bi-directional edges.  
+        + **a   b**  
+            - It means there is a connection from **a to b** and 
+            - Also, a connection from **b to a**.
     + Then a single integer **s** denoting the source node.
  
 2. Outputs:
