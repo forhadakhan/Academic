@@ -1,6 +1,6 @@
 #################################################################################
 ##|                                                                           |##
-##|      Problem 01           : Implement Depth First Search                  |##
+##|      Problem              : Implement Depth First Search                  |##
 ##|                             (Uninformed Search)                           |##
 ##|      Solution by          : https://github.com/forhadkhan/                |##
 ##|      Python Version       : Python 3.8.5 (Recommended 3.7.+)              |##
@@ -60,7 +60,7 @@ def recursive_dfs(graph, source, depth, path = ["0"]):
         # decrease depth in case of backtrack
         depth -= 1
     return path
-# end recursive_dfs(graph, neighbour, depth, path)
+# end recursive_dfs(graph, source, depth, path)
 
 
 # Call the main function:
