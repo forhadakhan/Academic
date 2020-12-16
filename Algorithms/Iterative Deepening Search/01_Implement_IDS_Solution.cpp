@@ -31,9 +31,10 @@ void ids(vector<int> graph[], int source, int visited[], int depth[], int max_de
 
 int main()
 {
+    // In case of reading inputs from a file
+    //freopen("input.txt", "r", stdin);
 
-    freopen("input.txt", "r", stdin);
-
+    // Declare necessary variables
     int nodes, edges, source, a, b;
 
     // Take input for nodes and edges
