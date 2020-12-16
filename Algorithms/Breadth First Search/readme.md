@@ -1,4 +1,4 @@
-## Academic » Algorithms » Breadth First Search
+## Academic » Algorithms » Breadth First Search 
 
 ### Contents
 + Implement Breadth First Search (Uninformed Search)
