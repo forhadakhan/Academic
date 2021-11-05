@@ -1,3 +1,3 @@
 # Bioinformatics Computing
 
-1. Counting DNA Nucleotides ([DNA](http://rosalind.info/problems/dna/))
+[🔗Problem](http://rosalind.info/problems/dna/) - 01. Counting DNA Nucleotides 
