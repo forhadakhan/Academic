@@ -21,3 +21,5 @@
 
 nucleotides  = map(input().count, "ACGT")
 print(*nucleotides)
+
+
