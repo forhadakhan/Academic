@@ -24,3 +24,4 @@ def DNAtoRNA(DNA):
     return RNA
 
 print(DNAtoRNA(input()))
+
