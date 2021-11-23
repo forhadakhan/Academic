@@ -27,3 +27,4 @@ def ReverseComplement(DNA):
     return reverse
 
 print(ReverseComplement(input()))
+
